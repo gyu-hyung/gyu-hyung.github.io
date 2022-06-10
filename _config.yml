@@ -1,0 +1,40 @@
+# Site Info
+title: ""
+tagline: ""
+description: ""
+baseurl: ""
+url: https:/gyu-hyung.github.io
+logo: ""
+
+# Site configurations
+#gems:
+#  - jekyll-paginate
+#markdown: kramdown
+#kramdown:
+#  input: GFM
+#excerpt_separator: "<!-- more -->"
+sass:
+  style: compressed
+  sass_dir: _scss
+#paginate:
+#paginate_path: ''
+#permalink: pretty
+
+version: 1.0.0
+
+# About/contact
+author:
+  name: Jo gyu hyung
+  description: Jo gyu hyung
+  contact:
+    # linkedin:  https://www.linkedin.com/in/
+    github:    https://github.com/gyu-hyung
+    #    facebook:
+    # twitter:
+    # weibo:
+    email: rod5603@daum.net
+
+google_analytics:
+  ua: 'G-SZ1NPRPE9J'
+
+theme: jekyll-theme-cayman
